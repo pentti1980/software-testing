@@ -1,0 +1,12 @@
+{
+  "name": "software-testing",
+  "version": "1.0.0",
+  "description": "Repository for Software Testing course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jussi Suonikko",
+  "license": "MIT"
+}
