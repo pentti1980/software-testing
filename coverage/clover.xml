@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1733785225122" clover="3.2.0">
+  <project timestamp="1733785225122" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="20" coveredelements="20" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+    <file name="filter.js" path="/Users/jussisuonikko/softwaretesting/assignment2/software-testing/src/filter.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="25" count="10" type="stmt"/>
+      <line num="26" count="10" type="stmt"/>
+      <line num="27" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="10" type="stmt"/>
+      <line num="30" count="10" type="stmt"/>
+      <line num="31" count="34" type="stmt"/>
+      <line num="32" count="34" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="23" type="stmt"/>
+      <line num="36" count="10" type="stmt"/>
+    </file>
+    <file name="reduce.js" path="/Users/jussisuonikko/softwaretesting/assignment2/software-testing/src/reduce.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="39" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="10" type="stmt"/>
+      <line num="41" count="10" type="stmt"/>
+    </file>
+  </project>
+</coverage>
